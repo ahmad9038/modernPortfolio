@@ -36,7 +36,7 @@ const Hero = () => {
           />
 
           <p className=" text-center mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, Im Ahmad, a MERN stack developer
+            Hi, I{"'"}m Ahmad, a MERN stack developer
           </p>
 
           <a href="#about">
